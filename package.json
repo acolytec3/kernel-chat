@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@nodeutils/defaults-deep": "^1.1.0",
-    "libp2p": "^0.28.5",
+    "libp2p": "^0.38.0",
     "libp2p-mplex": "^0.9.5",
     "libp2p-secio": "^0.12.6",
     "libp2p-tcp": "^0.14.5",
